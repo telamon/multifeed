@@ -1,5 +1,7 @@
 # multifeed
 
+## branch deprecated, signature exchange logic has moved to https://github.com/telamon/multifeed-sigrid
+
 > multi-writer hypercore
 
 Small module that manages multiple hypercores: feeds you create locally are
